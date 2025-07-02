@@ -48,3 +48,8 @@ Product catalog with category filtering, keyword search, and detailed product vi
 Shopping cart, order placement, and wishlist features, with transaction data stored securely in the backend.
 
 --------------------------------------------------------------------------------------------------------------------------------
+
+SimpleMall is an e-commerce website platform that I am developing independently. 
+It aims to provide a simple and smooth online shopping experience, focusing on the display and sales of clothing products. 
+The project is inspired by brand websites such as UNIQLO and MUJI, combining modern front-end technology with a stable and efficient back-end architecture. 
+The project is still under continuous iteration, and the functions and technical details are constantly optimized.
