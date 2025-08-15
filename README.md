@@ -69,32 +69,32 @@ The project is still under continuous iteration, and the functions and technical
 
 #### ✨ Features:
 
-##### User Module
+* ##### **User Module** 
 User Registration (including email uniqueness verification)
 User Login (returns token or session)
 User Logout
 User Information Retrieval (query your own information after logging in)
 
-##### Product Module (Core)
+* ##### Product Module (Core)
 Add Product (Administrator)
 Product List (pagination + conditional search)
 Product Details (search for a single item by ID)
 Product Delisting
 
-##### Shopping Cart Module
+* ##### Shopping Cart Module
 Add Item to Cart
 Modify Cart Item Quantity
 Delete Cart Items
 Query the Current User's Cart
 
-##### Order Module
+* ##### Order Module
 Submit Order (generate an order from the cart)
 View Order List (User/Administrator)
 View Order Details
 Update Order Status
 
 #### 🛠️ Development Technology Stack:
-##### Backend
+* ##### Backend
 ✅ Java JDK 17</br>
 ✅ Maven </br>
 ✅ Spring Boot 3.1.8</br>
