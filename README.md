@@ -126,26 +126,26 @@ This project is still under development, and features and technical details are 
 
 #### ✨Features:
 
-##### ユーザーモジュール
+* ##### ユーザーモジュール
 
 ユーザー登録（メールアドレスの一意性検証を含む）
 ユーザーログイン（トークンまたはセッションの返却）
 ユーザーログアウト
 ユーザー情報取得（ログイン後に自身の情報を取得）
 
-##### 製品モジュール（コア）
+* ##### 製品モジュール（コア）
 製品の追加（管理者）
 製品リスト（ページネーション + 条件検索）
 製品詳細（IDによる単一商品検索）
 商品の削除
 
-##### ショッピングカートモジュール
+* ##### ショッピングカートモジュール
 カートへの商品の追加
 カート商品数量の変更
 カート商品の削除
 現在のユーザーのカート情報の確認
 
-##### 注文モジュール
+* ##### 注文モジュール
 注文の送信（カートから注文を作成）
 注文リストの表示（ユーザー/管理者）
 注文詳細の表示
@@ -153,7 +153,7 @@ This project is still under development, and features and technical details are 
 
 
 #### 🛠️ Development Technology Stack:
-##### Backend
+* ##### Backend
 ✅ Java JDK 17</br>
 ✅ Maven </br>
 ✅ Spring Boot 3.1.8</br>
