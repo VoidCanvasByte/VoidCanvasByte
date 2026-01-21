@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://github.com/VoidCanvasByte/VoidCanvasByte/blob/main/background-pattern.png?raw=true" width="100%" />
+
+[//]: # (  <img src="https://github.com/VoidCanvasByte/VoidCanvasByte/blob/main/background-pattern.png?raw=true" width="100%" />)
 </p>
 
-<h1 align="center">Hi 👋, Welcome to my coding space!</h1>
+<h1 align="center"> Welcome to my coding space!</h1>
 <h3 align="center">Backend-Focused Developer</h3>
 
 ---------------------------------------------------------------------------------------------------------------------------------
